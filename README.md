@@ -1,4 +1,4 @@
-# Hi, I'm Alan 👋
+### Hi, I'm Alan 👋
 
 Current sophomore at Duke University studying computer science and statistics. I'm an incoming SWE intern at Microsoft and a previous intern at Fidelity ('20), Expedia ('18), and UW CSE ('19, '17). 
 
